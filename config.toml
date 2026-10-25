@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#14b8a6"
+# no "base" on purpose: the app follows the device's light/dark setting (user can override in Settings)
+
+[server]
+maxUploadSize = 50
